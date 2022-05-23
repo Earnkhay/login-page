@@ -1,0 +1,108 @@
+
+body{
+    background-image: url(./assets/images/sharon-mccutcheon-NkQD-RHhbvY-unsplash.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+/* .login{
+    display: flex;
+    flex-wrap: wrap; */
+    /* flex-direction: row; */
+    /* justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+img{
+    max-width: 45%;
+    height: 91.4%;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+.login-form{
+    width: 30%;
+    padding: 100px 85px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-color: white;
+    
+}
+
+form input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 10px;
+}
+
+form button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button a{
+    color: white;
+}
+
+form p{
+    text-align: center;
+}
+
+@media (min-width: 720px) and (max-width: 840px) {
+    .login-form{
+        width: 30%;
+        padding: 110px 85px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        background-color: white;
+        
+    }
+
+    img{
+        max-width: 45%;
+        height: 97.7%;
+        border-bottom-right-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+}
+
+@media (max-width: 700px) {
+    .login-form{
+        width: 30%;
+        padding: 60px 85px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        background-color: white;
+        
+    }
+
+    img{
+        max-width: 59%;
+        height: 90%;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+} */
